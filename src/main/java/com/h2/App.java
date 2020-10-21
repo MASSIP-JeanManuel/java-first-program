@@ -15,7 +15,7 @@ public class App
         return number*2;
     }
 
-    private static int add(int numbers) {
+    private static int add(int[] numbers) {
         return -1;
     }
 }
