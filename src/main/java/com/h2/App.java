@@ -16,6 +16,6 @@ public class App
     }
 
     private static int add(int numbers) {
-        return -1
+        return -1;
     }
 }
